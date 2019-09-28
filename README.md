@@ -41,7 +41,7 @@ Op Return Protocol:
 ```
 
 ```
-<BITCOM> classify <REQUEST_TXID> <REWARD_ADDRESS> <tag1> [tag2] [tag3] [tag4] [tag5] ...
+<BITCOM> classify <REQUEST_TXID> <REWARD_ADDRESS> <TAG1> [TAG2] [TAG3] [TAG4] [TAG5] ...
 
 ```
 
@@ -70,4 +70,9 @@ Reference to transaction that requested image classification
 ### REWARD ADDRESS
 
 Address to which the reward will be send when accepted
+
+### TAG
+
+String representing a token of information related to the image.
+This is the value the requester is looking to pay for.
 
