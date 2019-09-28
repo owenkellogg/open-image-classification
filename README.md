@@ -36,7 +36,7 @@ Op Return Protocol:
 
 ### BITCOM
 
-Address of the bitcom program.
+Address of the bitcom program: 1DvCuEXrXtUhmxiHFx1Smq7Zk2FWh3KkCQ
 
 ### LINK TYPE
 
